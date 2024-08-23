@@ -1,12 +1,12 @@
 
 # Diwali Sales Analysis 
 
-## Overview
+# Overview
 This project involves analyzing sales data from a Diwali sales campaign to uncover insights and trends that can help inform business decisions. We have used Python, along with libraries like NumPy, Pandas, Seaborn, and Matplotlib, to process, analyze, and visualize the data.
 
 
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7T9aQC__YSQmc_ezw52CGsbD-66PcbkVbbQ&usqp=CAU)
-## Objective
+# Objective
 The main objective of this project is to:
 
 1.Understand the performance of the Diwali sales campaign.
@@ -14,28 +14,29 @@ The main objective of this project is to:
 2.Identify trends and patterns in customer purchasing behavior.
 
 3.Provide actionable insights to improve future sales strategies.
-## Project Structure
-1.data: Contains the dataset used for analysis. Ensure the dataset is placed here before running the analysis script.
+# Project Structure
+__1.data:__ Contains the dataset used for analysis. Ensure the dataset is placed here before running the analysis script.
 
-2.notebooks: Contains Jupyter notebooks used for the analysis.
+__2.notebooks:__ Contains Jupyter notebooks used for the analysis.
 
-3.scripts: Contains Python scripts that perform the data analysis.
+__3.scripts:__ Contains Python scripts that perform the data analysis.
 
-4.output: Contains generated plots, graphs, and any other output files.
-## Libraries Used
-1.NumPy: Used for numerical operations and handling arrays.
+__4.output:__ Contains generated plots, graphs, and any other output files.
 
-2.Pandas: Used for data manipulation and analysis, particularly for handling data frames.
+# Libraries Used
+__1.NumPy:__ Used for numerical operations and handling arrays.
 
-3.Seaborn: Used for creating advanced visualizations and statistical plots.
+__2.Pandas:__ Used for data manipulation and analysis, particularly for handling data frames.
 
-4.Matplotlib: Used for basic plotting and creating visual representations of the data.
+__3.Seaborn:__ Used for creating advanced visualizations and statistical plots.
+
+__4.Matplotlib:__ Used for basic plotting and creating visual representations of the data.
 
 
 ![App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBw_zADGf8kWZBM_OCDNBoQL4Bshx6ltVmjcE-YZjMCaAeODllAAPg-jw&s=10)
 
 
-## Analysis Workflow
+# Analysis Workflow
 ## 1.Data Loading: 
 The data is loaded into Pandas DataFrames for easy manipulation and analysis.
 
@@ -60,7 +61,11 @@ Identification of high-value customers and the factors driving their purchases.
 ## 6.Insights and Recommendations:
 Based on the analysis, key insights are derived.
 Actionable recommendations are provided to improve future sales campaigns.
-## Conclusion
+
+![Screenshot 2024-08-23 023812](https://github.com/user-attachments/assets/33503248-1cfc-45b0-9587-51f19ca27fd4)
+
+
+# Conclusion
 This project provides a comprehensive analysis of the Diwali sales campaign, helping to identify key trends and offering actionable insights for improving future campaigns. The combination of data manipulation, statistical analysis, and visualization offers a robust framework for understanding sales performance.
 
 ![App Screenshot](https://cdn-icons-png.flaticon.com/512/3671/3671943.png)
